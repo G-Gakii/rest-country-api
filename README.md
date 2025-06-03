@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (http://localhost:4200/)
-- Live Site URL: (https://rest-countries-api-with-color-theme-switcher-nu-navy.vercel.app)
+-
+- Live Site URL: (https://rest-country-api-roan.vercel.app)
 
 ## My process
 
